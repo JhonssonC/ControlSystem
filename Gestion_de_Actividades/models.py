@@ -94,3 +94,6 @@ class Material(models.Model):
 #MODELO PARA MANO DE OBRA
 class Mano_de_Obra(models.Model):
     descripcion = models.CharField(max_length=30)
+    
+
+
